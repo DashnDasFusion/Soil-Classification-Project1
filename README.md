@@ -37,7 +37,7 @@
 <body>
   <div class="wrap">
     <div class="hdr">
-      <img class="logo" src="/images/final logpo ultimate.png" alt="hii stalker!">
+      <img class="logo" src="/soil classification tool/final logpo ultimate.png" alt="Dash&DasFusion!">
       <div>
         <h1>Soil Classification Tool — Final</h1>
         <div class="small">Log-scale PSD, A-line, USCS classification, table + side-by-side charts in PDF.</div>
